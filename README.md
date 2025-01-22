@@ -73,4 +73,7 @@ Key Concepts and Principles Applied
 
 Screenshots
 -----------
-- Add screenshots of the console application demonstrating features like adding, listing, searching, and removing books.
+![image](https://github.com/user-attachments/assets/a917d717-f9ac-44b0-ac5d-5cb9f172fa2d)
+![image](https://github.com/user-attachments/assets/6fc4f9af-fdee-40f6-b96a-9a8eb0cad4eb)
+
+
